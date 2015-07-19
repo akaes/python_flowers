@@ -1,7 +1,8 @@
 import turtle
 turtle.color('CornflowerBlue', 'CornflowerBlue')
 
-sidelength = 40 #eigenen wert einsetzen
+
+sidelength = input("sidelength: ") 
 radius_incircle = sidelength * 1.9626
 
 for a in range(5):
