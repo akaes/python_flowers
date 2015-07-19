@@ -12,4 +12,4 @@ Where is the math? It's the value 1.9626, the radius of an incircle [isosceles t
 
 [equation](https://upload.wikimedia.org/math/0/d/1/0d11ba1d1682f1d8c219d341101985d4.png)
 
-(sorry - my english is not good enough; I'm working on that)
+(In my opinion, my english is very bad so I apologize for any inconvenience.)
